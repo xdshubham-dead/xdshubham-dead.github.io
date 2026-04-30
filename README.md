@@ -1,18 +1,27 @@
 <h1 align="center">Hey 👋, I'm Shubham</h1>
 <h3 align="center">Student • Developer • Minecraft Server Creator</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Minecraft+Server+Builder;MGU.ONE+Developer;Web+Developer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xdshubham-dead&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
 - 🎓 Class 11 Student (Delhi)
 - 💻 Interested in Tech & Development
-- 🧠 Learning Java, Web Dev & Server Systems
-- 🎮 Founder/Developer of **MGU.ONE Minecraft Server**
+- 🧠 Learning Java, Web Dev & System Design
+- 🎮 Developer of **MGU.ONE Minecraft Server**
 - 🤝 Open for collaborations & paid work
 
 ---
 
 ## 🌐 My Projects
+
 ### 🟢 MGU.ONE
 - One of India's oldest cracked Minecraft servers
 - Economy Survival • Practice PvP • Bedwars (WIP)
@@ -33,13 +42,14 @@
 ---
 
 ## 🧠 Currently Learning
-- Advanced Java (for custom plugins)
+- Advanced Java (Custom Plugin Development)
 - Full Stack Web Development
 - System Design Basics
 
 ---
 
 ## 📬 Contact Me
+- 🌐 Website: https://xdshubham.me
 - 📧 Email: srshubham54@gmail.com  
 - 💬 Discord: xdsho_  
 - 📱 Instagram: https://instagram.com/xdshubham.kys  
